@@ -52,8 +52,9 @@ const Hero = () => {
   const three = <h3 className="big-heading">Hacker. Developer. Innovator.</h3>;
   const four = (
     <p>
-      I'm a software engineer based in Boston, MA specializing in building (and occasionally
-      designing) exceptional websites, applications, and everything in between.
+      I'm a Computer Science major at the University of Texas at Dallas, software developer at
+      Reveal-Brainspace and the Director of Development on the board for the Association for
+      Computing Machinery.
     </p>
   );
   const five = (

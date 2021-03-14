@@ -1,13 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'Personal Website'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/harshasrikara/personal-website'
+external: 'https://harshasrikara.com'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - React
+  - Gatsby
+  - Heroku
 showInProjects: true
 ---
 
