@@ -1,5 +1,5 @@
 ---
-date: '2017-04-01'
+date: '2019-01-01'
 title: 'Neuroanalytics Intern'
 company: 'Filbey Lab'
 location: 'Center for Brain Health'

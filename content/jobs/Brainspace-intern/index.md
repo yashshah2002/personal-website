@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2019-06-06'
 title: 'Software Development Intern'
 company: 'Cyxtera'
 location: 'Addison, TX'

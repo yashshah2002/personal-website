@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2021-01-01'
 title: 'Software Developer'
 company: 'Reveal'
 location: 'Dallas, TX'

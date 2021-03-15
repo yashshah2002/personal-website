@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, Fragment } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import styled from 'styled-components';
@@ -329,7 +329,7 @@ const Featured = () => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
-                  <div>
+                  <Fragment>
                     <p className="project-overline">Featured Project</p>
 
                     <h3 className="project-title">
@@ -361,7 +361,7 @@ const Featured = () => {
                         </a>
                       )}
                     </div>
-                  </div>
+                  </Fragment>
                 </div>
 
                 <div className="project-image">

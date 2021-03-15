@@ -53,7 +53,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a Computer Science major at the University of Texas at Dallas, software developer at
-      Reveal-Brainspace and the Director of Development on the board for the Association for
+      Reveal-Brainspace and the Director of Development on the Board for the Association for
       Computing Machinery.
     </p>
   );

@@ -1,5 +1,5 @@
 ---
-date: '2018-04-01'
+date: '2020-01-01'
 title: 'Automation Engineer'
 company: 'Brainspace'
 location: 'Addison, TX'
