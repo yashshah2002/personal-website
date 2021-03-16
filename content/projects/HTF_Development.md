@@ -7,6 +7,7 @@ tech:
   - Firebase
   - Express
   - Axios
+company: 'ACM Development'
 showInProjects: false
 ---
 
