@@ -8,7 +8,7 @@ tech:
   - React
   - Heroku
   - Canvas.js
-company: 'Apple'
+company: 'ACM Development'
 showInProjects: true
 ---
 
